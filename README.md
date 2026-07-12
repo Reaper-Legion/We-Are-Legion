@@ -1,6 +1,6 @@
-# REAPER FORGE
+# Reaper | We Are Legion™
 
-**Tactical gaming · Streaming · OSINT · Automation · Creator engineering**
+**Influencer · Livestreamer · Creator · Lawful security researcher**
 
 I build operator-grade tools and media systems that turn powerful hardware, automation, and AI into practical capability.
 
@@ -16,7 +16,7 @@ I build operator-grade tools and media systems that turn powerful hardware, auto
 
 ## Featured work
 
-### [Mr.Holmes OSINT Suite](https://github.com/Reaper-Forge/mrholmes-osint-suite)
+### [Mr.Holmes OSINT Suite](https://github.com/Reaper-Legion/mrholmes-osint-suite)
 A professional single-tool MCP and safe CLI suite for the Mr.Holmes OSINT ecosystem, built around controlled execution and useful investigation workflows.
 
 ## Command-center hardware
@@ -47,11 +47,16 @@ SECURITY > shortcuts
 SHIP     > stall
 ```
 
-## Find me
+## Official identities
 
-- **X / Twitter:** [@Reaper_Forge](https://x.com/Reaper_Forge)
-- **GitHub:** [@Reaper-Forge](https://github.com/Reaper-Forge)
+- **X:** [@Reaper_Forge](https://x.com/Reaper_Forge)
+- **Instagram:** [@deadman.ai](https://www.instagram.com/deadman.ai/)
+- **Kick:** [ReaperForge](https://kick.com/ReaperForge)
+- **Twitch:** [sarge_reaper](https://www.twitch.tv/sarge_reaper)
+- **YouTube:** [@Reaper_Forge](https://www.youtube.com/@Reaper_Forge)
+- **TikTok:** [@reaper_legion](https://www.tiktok.com/@reaper_legion)
+- **GitHub:** [@Reaper-Legion](https://github.com/Reaper-Legion)
 
 ---
 
-<sub>Reaper | Sarge_Reaper · Idaho, United States</sub>
+<sub>Reaper | We Are Legion™ · JOIN THE LEGION™ · Idaho, United States</sub>
