@@ -49,11 +49,11 @@ SHIP     > stall
 
 ## Official identities
 
-- **X:** [@Reaper_Forge](https://x.com/Reaper_Forge)
+- **X:** [@Reaper__Legion](https://x.com/Reaper__Legion)
 - **Instagram:** [@deadman.ai](https://www.instagram.com/deadman.ai/)
-- **Kick:** [ReaperForge](https://kick.com/ReaperForge)
+- **Kick:** [reaperforge](https://kick.com/reaperforge)
 - **Twitch:** [sarge_reaper](https://www.twitch.tv/sarge_reaper)
-- **YouTube:** [@Reaper_Forge](https://www.youtube.com/@Reaper_Forge)
+- **YouTube:** [@OfficialReaperLegion](https://www.youtube.com/@OfficialReaperLegion)
 - **TikTok:** [@reaper_legion](https://www.tiktok.com/@reaper_legion)
 - **GitHub:** [@Reaper-Legion](https://github.com/Reaper-Legion)
 
